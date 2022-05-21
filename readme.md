@@ -8,6 +8,14 @@ __С ip адресом отличным от RU работать не будет
 # Requirements
 requests
 
+# Установка
+
+```
+git clone https://github.com/vypivshiy/5ka-parser
+cd 5ka-parser
+python3 main.py
+```
+
 # Ключи запуска
   -h, --help Вывести все доступные команды
 
